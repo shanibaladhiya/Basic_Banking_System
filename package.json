@@ -1,0 +1,17 @@
+{
+  "name": "basic-banking-system",
+  "version": "1.0.0",
+  "description": "This is my internship project of web development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shani Baladhiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  },
+  "devDependencies": {}
+}
